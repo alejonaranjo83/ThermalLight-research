@@ -1,5 +1,5 @@
 # ThermalLight-research
 Thermal and light behavior of university classrooms located in the tropics, in relation to the perception and preference of its occupants
 
-ABSTRACT
+ABSTRACT: <br>
 The experience that people have in a space is the result of a synthesis of stimuli of diverse nature. However, environmental comfort studies have tended to analyze aspects independently. This work explores relationships that can be established between the ther-mal and light behavior of spaces, with the perception and preference, both thermal and visual, of people. Surveys were carried out on university students, simultaneously with measurements of temperature and illuminance of university classrooms lit only with natural lighting and naturally ventilated. Although people tend to be satisfied with the thermal and light environment, if they could modify it, they would prefer to have lower temperatures and higher light levels. No clear relationship was found between the visual and thermal perception of people, with the ranges of adaptive thermal comfort and the amount of light respectively.
